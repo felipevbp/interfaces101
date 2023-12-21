@@ -9,7 +9,6 @@ public class Vehicle {
 	}
 
 	public Vehicle(String model) {
-		super();
 		this.model = model;
 	}
 

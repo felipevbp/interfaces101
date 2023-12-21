@@ -18,7 +18,7 @@ public class Main {
 		
 		DateTimeFormatter fmt = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm");
 		
-		System.out.print("Enter rental datas: ");
+		System.out.println("Enter rental datas: ");
 		System.out.print("Car model: ");
 		String carModel = sc.nextLine();
 		System.out.print("Started (dd/MM/yyyy): ");
